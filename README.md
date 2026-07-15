@@ -14,6 +14,6 @@ Functionality:
 How to use it: 
 
 - download the repository and Scilab
-- adjust the exec data paths in main to your folder
+- adjust the exec data paths in main.sci to your local folder
 
 
