@@ -1,7 +1,7 @@
 # Flightpath-Navigation
 Flight navigation towards targets simulating flight paths. Simulates GPS outages and estimating the position with flawed gyroscope measurements. Self corrects this when receiving GPS Signal.
 
-![Flight path simulation](flightpath simulation.gif)
+![Flight path simulation](flightpath github.gif)
 
 Functionality: 
 - Navigation.sci, finds the best path to the target based on the estimated position of the aircraft
